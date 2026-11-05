@@ -2,7 +2,7 @@
 
 面向光学设计工程师的本地玻璃库浏览与可视化工具。使用一个 HTML 文件，读取 Zemax 和 CODE V 材料库，通过图谱、参数筛选和约束多边形辅助选材。
 
-[微信公众号图文介绍](GlassMap_微信公众号介绍.html)
+[微信公众号图文介绍](https://mp.weixin.qq.com/s/h_l8EiGnZRx4a-8mpNEPkQ)
 <!-- 公众号文章发布后，将上方链接替换为正式文章链接即可。 -->
 
 ![GlassMap 界面](images/glassmap-overview.png)
